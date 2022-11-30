@@ -1,0 +1,15 @@
+{
+    "name":"Productos 2",
+    "short_name":"AWP",
+    "start_url":"index.html",
+    "display":"standalone",
+    "theme_color":"#D10202",
+    "background_color":"#742323",
+    "icons":[
+        {
+            "src":"./icon/icono.png",
+            "sizes":"225x225",
+            "type":"image/png"
+        }
+    ]
+}
